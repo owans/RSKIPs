@@ -127,7 +127,7 @@ RSK Improvement Proposals
 | 135 |[Managing BridgeMaster Federation Members](IPs/RSKIP135.md)| 25-NOV-16 | SDL       | Sca      | Core     | 2 | Draft   |
 | 138 |[Multi-signed transactions supporting enveloping and multi-key accounts](IPs/RSKIP138.md)| 10-SEP-19 | SDL       | Sca      | Core     | 2 | Draft   |
 | 139 |[Precompile to get transaction refunds](IPs/RSKIP139.md)| 10-SEP-19 | SDL       | Sca      | Core     | 1 | Draft   |
-
+| 140 |[EXTCODEHASH opcode](IPs/RSKIP140.md)| 04-SEP-19 | JL | Usa | Core | 2 | Draft |
 (*) Under evaluation to be implemented in the next reference client release
 
 # Author Index
